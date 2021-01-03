@@ -1,0 +1,6 @@
+venv
+*.txt
+*.psd
+*.docx
+.idea
+__pycache__
